@@ -1,4 +1,4 @@
-# PracticaAcademica
+# Analisis de 'Henry Educación'
 
 
 1.Creación de Base de datos y querys de los mismos.
